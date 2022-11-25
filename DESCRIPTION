@@ -13,3 +13,5 @@ RoxygenNote: 7.1.2
 Depends: 
     htmltools,
     tidyverse
+URL: https://github.com/zac-garland/js.jq
+BugReports: https://github.com/zac-garland/js.jq/issues
